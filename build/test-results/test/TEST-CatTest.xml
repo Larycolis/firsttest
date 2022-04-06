@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CatTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-01-14T10:01:56" hostname="DESKTOP-F70K01D" time="0.026">
+  <properties/>
+  <testcase name="name()" classname="CatTest" time="0.026"/>
+  <system-out><![CDATA[3
+[null, null, Animals{name='Ku'}]
+Animals{name='Fluffy'}
+Animals{name='Yammy'}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
